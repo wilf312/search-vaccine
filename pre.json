@@ -1,0 +1,251 @@
+[
+  [
+    {
+      "prefectureId": "010006",
+      "href": "/search/city.html?id=010006",
+      "text": "北海道"
+    },
+    {
+      "prefectureId": "020001",
+      "href": "/search/city.html?id=020001",
+      "text": "青森県"
+    },
+    {
+      "prefectureId": "030007",
+      "href": "/search/city.html?id=030007",
+      "text": "岩手県"
+    },
+    {
+      "prefectureId": "040002",
+      "href": "/search/city.html?id=040002",
+      "text": "宮城県"
+    },
+    {
+      "prefectureId": "050008",
+      "href": "/search/city.html?id=050008",
+      "text": "秋田県"
+    },
+    {
+      "prefectureId": "060003",
+      "href": "/search/city.html?id=060003",
+      "text": "山形県"
+    },
+    {
+      "prefectureId": "070009",
+      "href": "/search/city.html?id=070009",
+      "text": "福島県"
+    }
+  ],
+  [
+    {
+      "prefectureId": "080004",
+      "href": "/search/city.html?id=080004",
+      "text": "茨城県"
+    },
+    {
+      "prefectureId": "090000",
+      "href": "/search/city.html?id=090000",
+      "text": "栃木県"
+    },
+    {
+      "prefectureId": "100005",
+      "href": "/search/city.html?id=100005",
+      "text": "群馬県"
+    },
+    {
+      "prefectureId": "110001",
+      "href": "/search/city.html?id=110001",
+      "text": "埼玉県"
+    },
+    {
+      "prefectureId": "120006",
+      "href": "/search/city.html?id=120006",
+      "text": "千葉県"
+    },
+    {
+      "prefectureId": "130001",
+      "href": "/search/city.html?id=130001",
+      "text": "東京都"
+    },
+    {
+      "prefectureId": "140007",
+      "href": "/search/city.html?id=140007",
+      "text": "神奈川県"
+    }
+  ],
+  [
+    {
+      "prefectureId": "150002",
+      "href": "/search/city.html?id=150002",
+      "text": "新潟県"
+    },
+    {
+      "prefectureId": "160008",
+      "href": "/search/city.html?id=160008",
+      "text": "富山県"
+    },
+    {
+      "prefectureId": "170003",
+      "href": "/search/city.html?id=170003",
+      "text": "石川県"
+    },
+    {
+      "prefectureId": "180009",
+      "href": "/search/city.html?id=180009",
+      "text": "福井県"
+    },
+    {
+      "prefectureId": "190004",
+      "href": "/search/city.html?id=190004",
+      "text": "山梨県"
+    },
+    {
+      "prefectureId": "200000",
+      "href": "/search/city.html?id=200000",
+      "text": "長野県"
+    },
+    {
+      "prefectureId": "210005",
+      "href": "/search/city.html?id=210005",
+      "text": "岐阜県"
+    },
+    {
+      "prefectureId": "220001",
+      "href": "/search/city.html?id=220001",
+      "text": "静岡県"
+    },
+    {
+      "prefectureId": "230006",
+      "href": "/search/city.html?id=230006",
+      "text": "愛知県"
+    }
+  ],
+  [
+    {
+      "prefectureId": "240001",
+      "href": "/search/city.html?id=240001",
+      "text": "三重県"
+    },
+    {
+      "prefectureId": "250007",
+      "href": "/search/city.html?id=250007",
+      "text": "滋賀県"
+    },
+    {
+      "prefectureId": "260002",
+      "href": "/search/city.html?id=260002",
+      "text": "京都府"
+    },
+    {
+      "prefectureId": "270008",
+      "href": "/search/city.html?id=270008",
+      "text": "大阪府"
+    },
+    {
+      "prefectureId": "280003",
+      "href": "/search/city.html?id=280003",
+      "text": "兵庫県"
+    },
+    {
+      "prefectureId": "290009",
+      "href": "/search/city.html?id=290009",
+      "text": "奈良県"
+    },
+    {
+      "prefectureId": "300004",
+      "href": "/search/city.html?id=300004",
+      "text": "和歌山県"
+    }
+  ],
+  [
+    {
+      "prefectureId": "310000",
+      "href": "/search/city.html?id=310000",
+      "text": "鳥取県"
+    },
+    {
+      "prefectureId": "320005",
+      "href": "/search/city.html?id=320005",
+      "text": "島根県"
+    },
+    {
+      "prefectureId": "330001",
+      "href": "/search/city.html?id=330001",
+      "text": "岡山県"
+    },
+    {
+      "prefectureId": "340006",
+      "href": "/search/city.html?id=340006",
+      "text": "広島県"
+    },
+    {
+      "prefectureId": "350001",
+      "href": "/search/city.html?id=350001",
+      "text": "山口県"
+    }
+  ],
+  [
+    {
+      "prefectureId": "360007",
+      "href": "/search/city.html?id=360007",
+      "text": "徳島県"
+    },
+    {
+      "prefectureId": "370002",
+      "href": "/search/city.html?id=370002",
+      "text": "香川県"
+    },
+    {
+      "prefectureId": "380008",
+      "href": "/search/city.html?id=380008",
+      "text": "愛媛県"
+    },
+    {
+      "prefectureId": "390003",
+      "href": "/search/city.html?id=390003",
+      "text": "高知県"
+    }
+  ],
+  [
+    {
+      "prefectureId": "400009",
+      "href": "/search/city.html?id=400009",
+      "text": "福岡県"
+    },
+    {
+      "prefectureId": "410004",
+      "href": "/search/city.html?id=410004",
+      "text": "佐賀県"
+    },
+    {
+      "prefectureId": "420000",
+      "href": "/search/city.html?id=420000",
+      "text": "長崎県"
+    },
+    {
+      "prefectureId": "430005",
+      "href": "/search/city.html?id=430005",
+      "text": "熊本県"
+    },
+    {
+      "prefectureId": "440001",
+      "href": "/search/city.html?id=440001",
+      "text": "大分県"
+    },
+    {
+      "prefectureId": "450006",
+      "href": "/search/city.html?id=450006",
+      "text": "宮崎県"
+    },
+    {
+      "prefectureId": "460001",
+      "href": "/search/city.html?id=460001",
+      "text": "鹿児島県"
+    },
+    {
+      "prefectureId": "470007",
+      "href": "/search/city.html?id=470007",
+      "text": "沖縄県"
+    }
+  ]
+]

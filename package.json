@@ -1,0 +1,16 @@
+{
+  "name": "search-vaccine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wilf312/search-vaccine.git",
+  "author": "okada genya <g.okada.wilf+github@gmail.com>",
+  "scripts": {
+    "dev": "cd vite-project && yarn dev",
+    "get": "node ./server/fetch.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.5.3"
+  }
+}
